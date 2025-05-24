@@ -1,0 +1,20 @@
+{
+  "name": "doujin_event_info-data",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "parse-data": "tsx ./src/tools/data-tsvs-to-booths-json.ts"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.5",
+    "@types/minimist": "^1.2.5",
+    "@types/node": "^22.13.8",
+    "tsx": "^4.19.3",
+    "typescript": "~5.7.2"
+  }
+}
