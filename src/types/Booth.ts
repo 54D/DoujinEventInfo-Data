@@ -6,6 +6,7 @@ export type Booth = {
         location: string;
         isBorrowed: boolean;
     }[];
+    coverImageName?: string;
     links: {
         name: string;
         category: string;

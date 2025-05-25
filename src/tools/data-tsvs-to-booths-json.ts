@@ -45,16 +45,18 @@ try {
 
     const attendanceLines = attendanceTsv.replaceAll('\r','').split('\n').slice(1);
     attendanceLines.forEach(line => {
-        const [idString, circleString, artist, ...attendanceColumns] = line.split('\t');
+        const [idString, circleString, artist, coverImageNameString, ...attendanceColumns] = line.split('\t');
         const id = parseInt(idString, 10);
         if (isNaN(id)) {
             return;
         }
         const circle = circleString.trim();
+        const coverImageName = coverImageNameString.trim();
         const booth: Booth = {
             id,
             circle,
             attendance: [],
+            coverImageName,
             links: [],
             tags: []
         }

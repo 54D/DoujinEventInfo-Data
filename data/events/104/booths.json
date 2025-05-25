@@ -1,0 +1,954 @@
+[
+  {
+    "id": 1,
+    "circle": "啫喱啫喱耶耶耶",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A01.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 2,
+    "circle": "賣藝維生",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A02.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 3,
+    "circle": "永夜墨藍",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A03.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 4,
+    "circle": "Hexenversand魔女雜貨鋪",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A04.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 5,
+    "circle": "Superb Market",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A05.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 6,
+    "circle": "Bitten Fruit Market x 我將入稟起訴外星人",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "A06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "A06.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 7,
+    "circle": "Apo Recipe",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B01.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 8,
+    "circle": "LunaTheMoon",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B02.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 9,
+    "circle": "Min's Kitchen",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B02-1.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 10,
+    "circle": "Windgun烈風",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B03.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 11,
+    "circle": "Kokoko",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B03-1.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 12,
+    "circle": "氣象同人研究所",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B04.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 13,
+    "circle": "無憂小閣",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "B05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "B05.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 14,
+    "circle": "可樂餅",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "C01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "C01.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 15,
+    "circle": "瑞希&藍良fanclub",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "C03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "C03.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 16,
+    "circle": "Minerva",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "C04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "C04.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 17,
+    "circle": "最後終結者",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "C05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "C05.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 18,
+    "circle": "塔塔手作",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "C06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "C06.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 19,
+    "circle": "Jun↗ko↘ Jun↗ko↘ /UKERU",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D01.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 20,
+    "circle": "高橋根子",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D02.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 21,
+    "circle": "Pokelry",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D03.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 22,
+    "circle": "eksMAN",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D04.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 23,
+    "circle": "50%抹茶澀得起",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D05.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 24,
+    "circle": "Elle的攤檔",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D06.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 25,
+    "circle": "Mochi Box 盒子餅",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "D06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "D06-1.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 26,
+    "circle": "四個女人一個虛",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E01.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 27,
+    "circle": "Tomodachi T-shirt",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E02.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 28,
+    "circle": "キャンバス@Aズサ",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E03.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 29,
+    "circle": "hoot",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E04.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 30,
+    "circle": "minusbit-1",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E04-1.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 31,
+    "circle": "Pic Up Doll",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E05.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 32,
+    "circle": "HOMURA",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "E06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "E06.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 33,
+    "circle": "YuDan魚蛋",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F01",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F01.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 34,
+    "circle": "GraceKaori",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F02.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 35,
+    "circle": "160 is my name",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F03",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F03.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 36,
+    "circle": "Mayu * 麻油",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F04.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 37,
+    "circle": "子貓丸 Meow’s Create",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F05.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 38,
+    "circle": "迪迪owo",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F05-1.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 39,
+    "circle": "音音 and King Cosplay",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "F06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "F06.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 40,
+    "circle": "防空動",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y01-Y02",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y01-Y02.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 41,
+    "circle": "Mikanya 蜜柑屋",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y03-Y04",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y03-Y04.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 42,
+    "circle": "Irisstorejp日本動漫精品代購",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y05",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y05.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 43,
+    "circle": "Mia Cosplay",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y06.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 44,
+    "circle": "日夜被人喪隊",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y07",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y07.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 45,
+    "circle": "龍與魔法師的快樂公廁",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y08",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y08.PNG",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 46,
+    "circle": "frkz1024",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y09",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y09.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 47,
+    "circle": "海屋",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y09",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y09-1.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 48,
+    "circle": "韶華閣",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y10",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y10.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 49,
+    "circle": "Kuro黑黑的不黑心小店",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y10",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y10-1.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 50,
+    "circle": "企鵝萬事屋",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y11",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y11.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 51,
+    "circle": "阿一工坊",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y12",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y12.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 52,
+    "circle": "PuppyBubble",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y13",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y13.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 53,
+    "circle": "KUMO:",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y13",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y13-1.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 54,
+    "circle": "安蒂斯插畫萬事屋",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y14",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y14.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 55,
+    "circle": "尋醬工坊",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y15-Y16",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y15-Y16.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 56,
+    "circle": "Lanikai",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Y17-Y18",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Y17-Y18.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 57,
+    "circle": "CSoft 匯創紀",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z01-Z06",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z01-Z06.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 58,
+    "circle": "Ehiru's Game",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z07",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z07.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 59,
+    "circle": "Coffee Connection",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z08",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z08-1.JPG",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 60,
+    "circle": "香港浸會大學動漫學會",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z08",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z08.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 61,
+    "circle": "Penana",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z09-Z10",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z09-Z10.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 62,
+    "circle": "官方攤位",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z09-Z10",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z09-Z10-1.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 63,
+    "circle": "猿之茶寮",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z11",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z11.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 64,
+    "circle": "魯蛇製品",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z12",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z12.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 65,
+    "circle": "Mirukuti奶茶",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z13",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z13.png",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 66,
+    "circle": "Silver * Here",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z14",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z14.jpg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 67,
+    "circle": "Amy在在在",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z15",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z15.jpeg",
+    "links": [],
+    "tags": []
+  },
+  {
+    "id": 68,
+    "circle": "Littlesshine晴兒",
+    "attendance": [
+      {
+        "day": 1,
+        "location": "Z16",
+        "isBorrowed": false
+      }
+    ],
+    "coverImageName": "Z16.jpeg",
+    "links": [],
+    "tags": []
+  }
+]

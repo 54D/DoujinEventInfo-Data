@@ -9,9 +9,14 @@ export type Event = {
     numberOfDays: number;
     locationEnUS: string;
     descriptionEnUS?: string;
+    coverImageName?: string;
     ageRating?: AgeRating;
-    links?: string[];
-    tags?: string[];
+    links: {
+        name: string;
+        category: string;
+        url: string;
+    }[];
+    tags: string[];
     createdAt: Date;
     updatedAt: Date;
 }
