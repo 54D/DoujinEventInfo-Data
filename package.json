@@ -4,10 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "parse-data": "tsx ./src/tools/data-tsvs-to-booths-json.ts"
+    "parse-data": "tsx ./src/tools/data-tsvs-to-booths-json.ts",
+    "upload-data": "tsx ./src/tools/upload-data-to-s3.ts"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.817.0",
     "dayjs": "^1.11.13",
+    "dotenv": "^16.5.0",
     "minimist": "^1.2.8"
   },
   "devDependencies": {

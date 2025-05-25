@@ -1,6 +1,7 @@
 import { existsSync, readFileSync, writeFileSync } from "fs";
 import minimist from 'minimist';
 import { Booth } from "../types/Booth.js";
+
 const argv = minimist(process.argv.slice(2));
 console.log("Arguments:", argv);
 

@@ -1,3 +1,14 @@
 {
-    "extends": "@tsconfig/node20/tsconfig.json"
+    "extends": "@tsconfig/node20/tsconfig.json",
+    "compilerOptions": {
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "strict": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "target": "ES2023",
+        "module": "ESNext",
+        "lib": ["ES2023", "DOM"],
+        "skipLibCheck": true
+    },
 }
